@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfax's further proceedings in the vvest: how Col. Hammond took in Michaels Mount, 100. barrels of gunpowder, 30. peeces of ordnance, three murderers, 500. armes, and the Marquesse Hamiltons coming from thence by sea. Also the names of the chiefe of those that staid in Exeter, of those that went with the Princese; and that marched with Sir Iohn Berkley, the manner of the enemies marching out, and our marching in, and setling thereof. With the proceedings against Dunster Castle, and the severall dayes marches and proceedings of the army in their way towards Oxford. Being the true copies of the originals, published according to order of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93298</idno><idno type="EEBO-CITATION">99861421</idno>
+  <idno type="VID">159655</idno>
+  <idno type="EEBO-PROQUEST">2248534558</idno>
+  
+            <idno type="STC">Wing S3896</idno>
+            <idno type="STC">Thomason E333_23</idno>
+            <idno type="STC">ESTC R200761</idno>
+            <idno type="PROQUEST">99861421</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861421e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93298)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159655)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E333[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfax's further proceedings in the vvest: how Col. Hammond took in Michaels Mount, 100. barrels of gunpowder, 30. peeces of ordnance, three murderers, 500. armes, and the Marquesse Hamiltons coming from thence by sea. Also the names of the chiefe of those that staid in Exeter, of those that went with the Princese; and that marched with Sir Iohn Berkley, the manner of the enemies marching out, and our marching in, and setling thereof. With the proceedings against Dunster Castle, and the severall dayes marches and proceedings of the army in their way towards Oxford. Being the true copies of the originals, published according to order of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbank.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Aprill 22. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">St. Michael's Mount (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159655:1"/>
+            <p>Sir Thomas Fairfax's Further Proceedings In the West: How Col. <hi>Hammond</hi> took in <hi>Michaels</hi> Mount, 100. barrells of Gunpowder, 30. Peeces of Ordnance, three Murderers, 500. Armes, and the Marq<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>este <hi>Hamiltons</hi> coming from thence by Sea.</p>
+            <p>ALSO The names of the chiefe of those that staid in EXETER, of those that went with the PRINCESSE; and that marched with Sir <hi>Iohn Berkley,</hi> the manner of the Enemies marching out, and our marching in, and setling thereof.</p>
+            <p>WITH The Proceedings against Dunster Castle, and the severall dayes Marches and Proceedings of the Army in their way towards OXFORD.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Being the true Copies of the Originals, pub<g ref="char:EOLhyphen"/>lished according to Order of Parliament.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthew Walbank.</hi> Aprill 22. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159655:2"/>
+            <pb n="1" facs="tcp:159655:2"/>
+            <head>
+               <hi>The Copie of a Letter from Sir</hi> Thomas Fairfax's <hi>quarters.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir:</salute>
+            </opener>
+            <p>BY reason of the Generalls advance towards Barn<g ref="char:EOLhyphen"/>staple, for the reducing of that Garrison, and the affaires of Exeter referred to Lievtenant-Generall <hi>Cromwell,</hi> and Col. <hi>Lambert</hi> (upon whom I attended for the management of the affaires therof, about which I was particularly employed, and of which I had a difficult en<g ref="char:EOLhyphen"/>gagement) I wrote not to you, as I intended, though I be<g ref="char:EOLhyphen"/>leeve some Letters were conveyed from Barnstaple side to your parts; but having not the opportunitie of convey<g ref="char:EOLhyphen"/>ance, I hope it will suffice to excuse so long intermission, it being my desire to give you as full advertisement as may be of our occurrences. On Munday April 13, our Forces entred Exeter, Sir <hi>John Berkley</hi> the Governour, and about 2000 of his Forces marched forth; but the Cornish (being about 700) shewed him a slipperie trick, and faced about Westward to their owne homes: there was not the least reproachfull speech, or insultation, utte<g ref="char:EOLhyphen"/>red by our men against them. The Enemy had (before our coming) burnt all the Suburbs, being a place as po<g ref="char:EOLhyphen"/>pulous as the Citie, and for buildings not much inferior to the Citie, who are generally (for ought I can yet per<g ref="char:EOLhyphen"/>ceive) as malignant as may be, though our thoughts <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>fore entrance were otherwise; but it seemes the constant residence of the opposite partie hath had a great influence upon them; yet a care is to be had in the gubernation thereof, Col. <hi>Hamond</hi> is Governour. The Army is with all speed to march Eastward: the Generall will himselfe
+<pb n="2" facs="tcp:159655:3"/> advance in person, so soon as hee can settle affaires here: His Excellencie hath sent Orders for the slighting, de<g ref="char:EOLhyphen"/>molishing, and razing downe of the works of Tiverton, Poultem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, Bedford-house, Hulford-house, the works at Affington, B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otwell-house, Barley-house, Exwick mills, March-house, Nutwell, Poulston, and other Gar<g ref="char:EOLhyphen"/>risons, which were made for the siege of Exeter, which I beleeve will not be unacceptable to the Countrey.</p>
+            <p>On Tuesday April 14, the castle and towne of Barn<g ref="char:EOLhyphen"/>staple were surrendred into such hands as the Generall appointed for that purpose: The Enemy under Sir <hi>Allen Apsley</hi> being (according to Articles) to remaine in the Fort untill Tuesday next: Major <hi>Roberts</hi> is for the pre<g ref="char:EOLhyphen"/>sent appointed Governour of Barnstaple by the Generall, who will in few dayes particularly advertise the Parlia<g ref="char:EOLhyphen"/>ment, of all these his proceedings: I had now sent you the Articles; but it is not thought fit any Copie should be sent, till the originall be dispatched from the Generall. The Foot march this day, the Generall will follow to morrow. I remaine</p>
+            <closer>
+               <dateline>Exeter, <date>April 16. 1646.</date>
+               </dateline>
+               <signed>Your most humble servant. W. C.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The copy of a Letter from the Generall Sir</hi> Thomas Fair<g ref="char:EOLhyphen"/>faxe'<hi>s Quarters at Chard.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Generall having setled Exeter in a good posture, and with great discretion ordered all things for the peace and safety of those parts, and our foot being ad<g ref="char:EOLhyphen"/>vanced some dayes before, the Generall and Lievtenant-Generall, advanced this day with our Army to Chard, where we quarter this night, 27. miles we have mar<g ref="char:EOLhyphen"/>ched, for so much it is from hence to Exeter.</p>
+            <pb n="3" facs="tcp:159655:3"/>
+            <p>On Thursday night, the enemy in Dunster-Castle, cal<g ref="char:EOLhyphen"/>led to Capt. <hi>Burridge</hi> who is of Col. <hi>Blakes</hi> Regiment, the Colonell himselfe being not then come backe from the Generall, to the Leaguer, where he had left part of his forces: it seems some of our souldiers had informed some of the Dunster-castle souldiers, that Exeter and Barnstaple were both taken in, and that the Army were coming that way; Capt. <hi>Burridge</hi> hearkening to what the Enemy said, they tendred their desires, that they might have libertie to send to Barnstaple to know the truth of it: and that if it were true, then they would ca<g ref="char:EOLhyphen"/>pitulate, Capt. <hi>Burridge</hi> returned answer, that he would not by any false way of smooth language, goe about to begge their castle, but in a just and right way, and offered himselfe to be hostage, if they would send out one of the like quality, whilst they sent for intelligence, and that if what hee had said, was not true, hee would lose his life: Provided, that they would be ingaged to surrender upon the certaine information thereof from the place, they being all then in the Fort, having surren<g ref="char:EOLhyphen"/>dred all the rest, and that also to bee surrendred accor<g ref="char:EOLhyphen"/>ding to a day set in the Articles agreed on; these words wrought so much upon them, that Friday morning they sent out to desire leave to send out for intelligence, to be fully certified concerning Exeter, and Barnstaple; to whom Capt. <hi>Burridge</hi> desired them to have patience, who having intelligence, that Colonel <hi>Blake</hi> would sud<g ref="char:EOLhyphen"/>denly be there, he assured them that they should very speedily have an answer from his Colonell himself, and accordingly the same day, Col <hi>Blake</hi> did returne about twelve a clocke at noone with the remainder of his owne Regiment, and those of Major-Generall <hi>Skippons</hi> Regi<g ref="char:EOLhyphen"/>ment from the Generall; who faced the Castle on an
+<pb n="4" facs="tcp:159655:4"/> hill, and there drew up into two Bodies, and sent in a Summons according to the Generalls directions: from whom he had received orders, and instructions, for that purpose. To morrow, the Generall intends to advance towards Dorchester, this is all at present from</p>
+            <closer>
+               <dateline>Chard <date>April 18. 1646. 10. a clock at night.</date>
+               </dateline>
+               <signed>Your humble Servant, N. T.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Relation made by one of Sir</hi> Thomas Fairfax's <hi>own Mes<g ref="char:EOLhyphen"/>sengers, being the last that came from the Generalls quar<g ref="char:EOLhyphen"/>ters, who came Sunday last April 19 from Chard, his Ex<g ref="char:EOLhyphen"/>cellencie then advancing towards Dorchester.</hi>
+            </head>
+            <p>ON Munday April 13. 1646. about twelve of the clock the Enemy marched out of Exeter, in num<g ref="char:EOLhyphen"/>ber about 2000, who when they were come out, said, That they had served long enough, and now would go home, and accordingly (in a disorder) divers Cornish threw downe their Armes, and ran home; their number are judged about 600, or some say 700, the Generall be<g ref="char:EOLhyphen"/>ing then full of action about the taking in of Barnstaple. Lievtenant-Generall <hi>Cromwell</hi> entred Exeter about two a clock in the after-noone; there marched out on the Ene<g ref="char:EOLhyphen"/>mies part Sir <hi>John Berkley,</hi> Sir <hi>Iohn St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>well,</hi> Mr. <hi>Evill,</hi> Mr. <hi>King,</hi> and divers others, on towards Oxford; the Princesse was carried out in an Horse-litter, and the Lady <hi>Bartlet,</hi> and others, with her Attendants about her, till it be determined whither she shall go. The Earle of Bri<g ref="char:EOLhyphen"/>stoll, and the Lord <hi>Pawlet,</hi> with some others, are still in Exeter, their time being not expired for their going be<g ref="char:EOLhyphen"/>yond Sea. There are so many Ordnance, such store of Ammunition and provisions, that the Papists and great Malignants raile against Sir <hi>Iohn Berkley</hi> for surrendring such a strength. On Munday night April 13 instant, the
+<pb n="5" facs="tcp:159655:4"/> Generall came into Exeter, having laboriously set in or<g ref="char:EOLhyphen"/>der things about Barnstaple, where the Enemy (accor<g ref="char:EOLhyphen"/>ding to Articles) marched out of the Castle and Towne, into the Fort, where they are to remaine till the time a<g ref="char:EOLhyphen"/>greed on be expired, the Castle with all the Works there<g ref="char:EOLhyphen"/>to belonging, being surrendred to us.</p>
+            <p>On Tuesday Aprill 14. the Inhabitants of Exeter o<g ref="char:EOLhyphen"/>pened their shops, and took money of our souldiers for divers things they wanted, who paid civilly for what they had, but the Citizens have learned like the Cavali<g ref="char:EOLhyphen"/>ers, to sweare, God damne them, &amp;c. they want good Ministers to teach them better, all that week the Gene<g ref="char:EOLhyphen"/>rall had little rest, as also the Lievtenant-Generall, and the rest, by reason of great imployment to settle the town in a good posture; the well-affected in the town expresse much joy. The Major of the towne invited the Gene<g ref="char:EOLhyphen"/>rall, and Lievtenant-Generall, to supper one day last weeke, where they were entertained with great respect, yet there are some in the town that are exceeding malig<g ref="char:EOLhyphen"/>nant. On Thursday the foot began to march Eastward, and on Saturday the Generall, Lievtenant-Generall, and the rest marched out of Exeter, and that night came to Chard, 27. miles, where they quartered Saturday night, and the next day being the Lords day April 19. instant, the Generall intended to march to Dorchester, which is some 20. miles further, and just as the Messenger was co<g ref="char:EOLhyphen"/>ming away, there came one of Lievtenant-Gen. <hi>Crum<g ref="char:EOLhyphen"/>wels</hi> Messengers out of Cornwall, who told the Gene<g ref="char:EOLhyphen"/>rall that <hi>Michaels</hi> Mount was agreed to be surrendred to the Parliament, and that it was expected that Pendennis intended to capitulate.</p>
+            <p>The Messenger came Aprill 20. 1646. about one a clocke.</p>
+            <pb n="6" facs="tcp:159655:5"/>
+            <p>Since these Papers were sent to the Presse there came another Messenger from the Army, who is the same that came from <hi>Michaels</hi> Mount to the Generall, who brought newes thus.</p>
+            <p>That the Governour of <hi>Michaels</hi> Mount hath surren<g ref="char:EOLhyphen"/>dred the Garrisons, Forts, and Armes, with all therein to Col. <hi>Hammond,</hi> upon verie good terms, the Officers to march away with Arms, the souldiers with swords, and that Marquesse <hi>Hamilton</hi> was there, whom he saw, having his haire growne long upon him, and much changed, ha<g ref="char:EOLhyphen"/>ving conformed himselfe to a condition sutable to his im<g ref="char:EOLhyphen"/>prisonment: that it was a place of verie great strength, those who were there, are some to go to Sea, some to go home, &amp;c. Pendennis castle was then upon capitulation.</p>
+            <list>
+               <head>
+                  <hi>A List of what was in</hi> Michaels <hi>Mount.</hi>
+               </head>
+               <item>An hundred Barrels of Gun-powder.</item>
+               <item>Match, Bullet, and other Ammunition pro<g ref="char:EOLhyphen"/>portionable.</item>
+               <item>Thirtie Peeces of Ordnance, great and small.</item>
+               <item>Three murdring Peeces.</item>
+               <item>Five hundred Armes, broken and whole, of se<g ref="char:EOLhyphen"/>verall sorts, as Fire-armes, Pikes, Halberds, and others.</item>
+               <item>A great quantitie of Bisket, and other provi<g ref="char:EOLhyphen"/>sions.</item>
+               <item>One hundred and fortie marched out of the Garrison.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
